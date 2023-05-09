@@ -2,9 +2,9 @@
     "name":"Shader",
     "id":"com.vrchat.shader",
     "url":"https://swmarly.github.io/shader/index.json",
-    "author":{Swmarly}
+    "author":{
         "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "name":"Swmarly",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
