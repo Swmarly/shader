@@ -1,8 +1,8 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
+    "name":"Shader",
+    "id":"com.vrchat.shader",
+    "url":"https://swmarly.github.io/shader/index.json",
+    "author":{Swmarly
         "email":"developer@vrchat.com",
         "name":"VRChat",
         "url":"https://hello.vrchat.com"
